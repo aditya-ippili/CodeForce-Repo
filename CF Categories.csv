@@ -1,0 +1,13 @@
+Category,Definition
+MitM,Man-in-the-Middle Attack - An attack where the attacker secretly intercepts and possibly alters the communication between two parties.
+Financial,"Financial Records - Data related to financial transactions, account statements, and other monetary activities."
+Memo,"Internal Memo - Internal communications within an organization, typically containing operational or administrative information."
+BEC,Business Email Compromise - A form of cyber attack where the attacker gains access to a business email account and uses it to conduct fraudulent activities.
+Legal,"Legal Document - Documents related to legal agreements, contracts, and other legal matters."
+DoS,"Denial of Service Attack - An attack designed to overwhelm a system, making it unavailable to its intended users."
+Spam,"Spam Email - Unsolicited and often irrelevant or inappropriate messages sent over the internet, typically to a large number of users."
+Phishing,Phishing Email - Fraudulent attempts to obtain sensitive information by pretending to be a trustworthy entity in electronic communication.
+Support,Technical Support - Communications or documents related to technical assistance provided for software or hardware issues.
+Malware,"Malicious software designed to disrupt, damage, or gain unauthorized access to computer systems."
+Social,"Social Media Post - Content posted on social media platforms, which may be benign or used in social engineering attacks."
+ATO,Account Takeover - Unauthorized access and control of a user’s online account by a malicious actor.
